@@ -26,7 +26,7 @@ Aplicación web para la gestión de productos, inventario y ventas, desarrollada
 ---
 
 
-## 🎠 Carrusel de imágenes
+## 📷 Galeria de Imágenes
 
 <!-- Carousel de Productos -->
 <div id="carouselProductos" class="carousel slide mb-5" data-bs-ride="carousel">
@@ -58,14 +58,5 @@ Aplicación web para la gestión de productos, inventario y ventas, desarrollada
     </div>
   </div>
 
-  <!-- Controles del carousel -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselProductos" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Anterior</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselProductos" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Siguiente</span>
-  </button>
-</div>
+---
 
