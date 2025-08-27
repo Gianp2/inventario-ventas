@@ -33,27 +33,26 @@ Aplicación web para la gestión de productos, inventario y ventas, desarrollada
   <div style="overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="imagen1.png" alt="Producto 1" style="width: 100%; display: block;"/>
   </div>
-
+---
   <div style="overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="imagen2.png" alt="Producto 2" style="width: 100%; display: block;"/>
   </div>
-
+---
   <div style="overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="imagen3.png" alt="Producto 3" style="width: 100%; display: block;"/>
   </div>
-
+---
   <div style="overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="imagen4.png" alt="Producto 4" style="width: 100%; display: block;"/>
   </div>
-
+---
   <div style="overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="imagen5.png" alt="Producto 5" style="width: 100%; display: block;"/>
   </div>
-
+---
   <div style="overflow: hidden; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <img src="imagen6.png" alt="Producto 6" style="width: 100%; display: block;"/>
   </div>
-
 </div>
 
 ---
